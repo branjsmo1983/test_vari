@@ -1,0 +1,6 @@
+
+
+	per ogni oggetto di tipo Card aggiungere 2 campi
+	[SerializeFiled]
+	private Sprite cardFace, cardBack;
+	private GameObject cardPrefab; //riferimento al gameobject
